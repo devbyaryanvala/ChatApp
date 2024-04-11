@@ -1,5 +1,5 @@
 
-# I Created a ChatApp Using Express and Node
+# I Created a ChatApp Using Express/Socket/Node
 
 This repository contains a ChatApp SourceCode named "" This is just a Base on which a ChatApp can be developed.
 
